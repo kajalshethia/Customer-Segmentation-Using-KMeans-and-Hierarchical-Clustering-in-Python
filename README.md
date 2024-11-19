@@ -1,10 +1,9 @@
 # Customer-Segmentation-using-KMeans-and-Hierarchical-Clustering-in-Python
-A python-based project utilizing KMeans and Hierarchical Clustering for customer segmentation, offering actionable insights into customer behavior and spending patterns.
 
-## Overview
+### Overview
 This project focuses on customer segmentation using **KMeans** and **Hierarchical Clustering** algorithms in Python. The goal is to group customers based on their behavior and characteristics, enabling actionable insights for targeted strategies.
 
-## Key Features
+### Key Features
 - Implements **KMeans** and **Hierarchical Clustering** for segmentation.
 - Uses Python libraries such as `pandas`, `numpy`, `scikit-learn`, `seaborn` and `matplotlib` for data preprocessing, clustering, and visualization.
 - Provides actionable insights into customer behavior, engagement, and spending patterns.
