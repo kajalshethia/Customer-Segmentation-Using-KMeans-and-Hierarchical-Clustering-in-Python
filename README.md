@@ -23,12 +23,17 @@ The dataset is cleaned, normalized, and preprocessed for clustering analysis.
 2. **Clustering Techniques**:
    - **Hierarchical Clustering**:
      - Visualize clusters with dendrograms.
+       <img width="506" alt="image" src="https://github.com/user-attachments/assets/e514d6e1-570d-4c3f-929f-44d39001eea8">
+
    - **KMeans Clustering**:
      - Identify optimal clusters using the Elbow Method.
+       <img width="367" alt="image" src="https://github.com/user-attachments/assets/e4139711-f3d8-4096-9a66-dbf7760a93b4">
+
 3. **Segmentation Analysis**:
    - Evaluate and interpret clusters to identify key customer groups.
 4. **Visualization**:
    - Create heatmaps, scatterplots, and dendrograms to present the findings.
+
 
 ### Key Results
 The segmentation identified the following customer groups:
