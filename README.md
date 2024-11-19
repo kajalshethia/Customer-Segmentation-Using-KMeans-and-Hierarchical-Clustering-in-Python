@@ -8,7 +8,7 @@ This project focuses on customer segmentation using **KMeans** and **Hierarchica
 - Uses Python libraries such as `pandas`, `numpy`, `scikit-learn`, `seaborn` and `matplotlib` for data preprocessing, clustering, and visualization.
 - Provides actionable insights into customer behavior, engagement, and spending patterns.
 
-## Dataset
+### Dataset
 The dataset includes the following features:
 - **Minutes Watched**: Number of minutes a customer engaged with the platform.
 - **CLV (Customer Lifetime Value)**: Spending by the customer.
@@ -17,7 +17,7 @@ The dataset includes the following features:
 
 The dataset is cleaned, normalized, and preprocessed for clustering analysis.
 
-## Methodology
+### Methodology
 1. **Data Preprocessing**:
    - Handle missing values, scale features, and encode categorical data.
 2. **Clustering Techniques**:
@@ -30,7 +30,7 @@ The dataset is cleaned, normalized, and preprocessed for clustering analysis.
 4. **Visualization**:
    - Create heatmaps, scatterplots, and dendrograms to present the findings.
 
-## Key Results
+### Key Results
 The segmentation identified the following customer groups:
 1. **High-Engagement Facebook Users**: Highly engaged users from Facebook with moderate spending.
 2. **Google and YouTube Learners**: Users acquired via Google and YouTube, with moderate engagement but low spending.
@@ -40,7 +40,7 @@ The segmentation identified the following customer groups:
 6. **High-Spending YouTube Users**: Users with moderate engagement but the highest spending.
 7. **Other Channel Users**: Diverse users with high engagement and moderate spending.
 
-## Requirements
+### Requirements
 To run this project, you need:
 - **Python 3.8+**
 - Libraries:
